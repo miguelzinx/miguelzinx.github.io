@@ -1,0 +1,23 @@
+body{
+background-color: black;
+ }
+ #git{
+ width: 700px;
+ height: 20px;     
+ font-family: 'Courier New', Courier, monospace;
+ border-color: rgb(190, 0, 190) ;
+}
+label{
+    color: rgb(239, 168, 54);
+}
+#git{
+    width: 1800px;
+    height: 40px;
+}
+.menu{
+    color:black ;
+}
+#home{
+    color: rgb(239, 168, 54);
+    margin-left: 1500px;
+}
